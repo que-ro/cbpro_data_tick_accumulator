@@ -11,4 +11,4 @@ Create your own mysql database locally or on the cloud (I hosted mine using kama
 Create a  currency_pair table and a tick_data table (you can check the structure of the latter in utils_data_accumulator.py) <br/>
 Change the credentials for connexion in utils_connect_server_db.py <br/>
 Create your own scheduler on your local computer or on a cloud services (I use a raspberryPi) <br/>
-Here you go, your own data accumulator
+Execute the script with the scheduler and voilà! Each 5 minutes you database will receive data of the currencies pair you are interested
