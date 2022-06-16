@@ -1,0 +1,4 @@
+pandas
+cbpro
+pymysql
+sshtunnel
